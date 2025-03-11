@@ -37,6 +37,5 @@
 
 <p align="ce![github-contribution-grid-snake](https://github.com/user-attachments/assets/5e8ade84-8660-4d30-ba7e-39a92b6ec3ec)
 nter">
-  <img  src=""
-    alt="example" />
+ 
 </p>
