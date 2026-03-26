@@ -30,7 +30,9 @@
 
 <div align="center">
 <h2>📊 GitHub Stats</h2> 
-[![](https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Dazhlo)
+<a href="https://github.com/Dazhlo">
+  <img src="[![](https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Dazhlo)" />
+</a>
 
 <a href="https://github.com/Dazhlo">
   <img src="https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats de Dazhlo" />
