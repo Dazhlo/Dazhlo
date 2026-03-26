@@ -11,7 +11,8 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
 
-**Programming** <p>
+**Programming**
+<p>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,32 +31,14 @@
 <div align="center">
 <h2>📊 GitHub Stats</h2> 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dazhlo&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Dazhlo Trophies" />
+<a href="https://github.com/Dazhlo">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats de Dazhlo" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Dazhlo">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dazhlo&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dazhlo&theme=tokyonight&hide_border=true" alt="GitHub Streak de Dazhlo" />
 </a>
 
-<a href="https://github.com/Dazhlo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazhlo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Dazhlo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dazhlo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-<h2>🐍 Contribution Grid</h2>
-
-<img alt="github-contribution-grid-snake" src="https://github.com/user-attachments/assets/5e8ade84-8660-4d30-ba7e-39a92b6ec3ec" width="100%">
 </div>
